@@ -1,10 +1,3 @@
-%¦====================================================================================¦
-%¦Laboratório 05 - Transmissão Digital em canal Rayleigh ¦ Codificação Convolucional  ¦
-%¦            Aluno: Marcelo Haziel Silva Biondo                                      ¦
-%¦                       RA: 2267705                                                  ¦
-%¦         Link do video no youtube :  https://youtu.be/3kpQuSN2fBU                   ¦      
-%¦====================================================================================¦
-
 %% CODIFICAÇÃO CONVOLUCIONAL [133, 171], n = 1, k = 2, q = 7.
 
 % Parametros da simulação
